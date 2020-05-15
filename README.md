@@ -26,3 +26,8 @@ Commands:
   domains.getList
 ````
 
+## Configuration
+
+This requires that you set some environment variables for it to work. You need to get a token from Namecheap and
+then you should set the variable in the `config.js`
+
